@@ -9,9 +9,8 @@ For developers, you're able to find 3 kinds of repos on my profile:
 - 📊 **Competitive programming repos** (hackathon prototypes, quickly written algorithms)
 
 I'm currently working on:
-- 🍓 A new game built with Godot
-- 📈 Dabbling in data analytics
-- 🎵 Relaxing before my internship starts!
+- 🎓 Getting my degree
+- 🎮 Some smaller projects with Godot
 
 Contact me by email if:
 - 💭 Discuss anything listed above
