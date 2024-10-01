@@ -14,4 +14,4 @@ I'm currently working on:
 
 Contact me by email if:
 - 💭 Discuss anything listed above
-- 🛠️ You want to work on a project with me (I'm open to **Game Jams** and **Hackathons** for the month of May)
+- 🛠️ You want to work on a project with me (I'm open to **Game Jams** and **Hackathons** through May 2025)
