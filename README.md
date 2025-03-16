@@ -12,6 +12,6 @@ I'm currently working on:
 - 🎓 Getting my degree
 - 🎮 Some smaller projects with Godot
 
-Contact me by email if:
+Contact me by email (trenamanluke [at] gmail [dot] com) if:
 - 💭 Discuss anything listed above
 - 🛠️ You want to work on a project with me (I'm open to **Game Jams** and **Hackathons** through May 2025)
