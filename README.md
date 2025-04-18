@@ -8,10 +8,6 @@ For developers, you're able to find 3 kinds of repos on my profile:
 - 🎮 **Games** (Canvas, Pixi.JS, more recently Godot)
 - 📊 **Competitive programming repos** (hackathon prototypes, quickly written algorithms)
 
-I'm currently working on:
-- 🎓 Getting my degree
-- 🎮 Some smaller projects with Godot
-
 Contact me by email (trenamanluke [at] gmail [dot] com) if:
 - 💭 Discuss anything listed above
-- 🛠️ You want to work on a project with me (I'm open to **Game Jams** and **Hackathons** through May 2025)
+- 🛠️ You want to work on a project with me (I'm open to **Game Jams** and **Hackathons** through July 2025)
