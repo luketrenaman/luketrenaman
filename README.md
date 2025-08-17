@@ -7,5 +7,3 @@ There's 3 kinds of repos on my profile:
 - 🌐 **Web apps**
 - 🎮 **Games**
 - 📊 **Competitive programming**
-
-Feel free to contact me by email (trenamanluke [at] gmail [dot] com)
